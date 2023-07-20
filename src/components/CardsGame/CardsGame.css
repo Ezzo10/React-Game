@@ -1,0 +1,11 @@
+.game-lib-cards{
+    flex: 1 1 100%;
+}
+.game-lib-cards ul{
+    display: flex;
+    justify-content: space-between;
+    padding: calc(var(--padding-primary) / 2)0;
+}
+.game-lib-cards h4{
+    font-size: 1rem;
+}

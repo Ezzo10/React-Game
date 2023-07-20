@@ -1,0 +1,23 @@
+.card-wrapper{
+    background: var(--color-dark);
+    border-radius:calc(var(--distance-primary)/2) ;
+    padding: calc(var(--distance-primary) / 2);
+    margin: calC(var(--distance-primary)/ 2);
+}
+.most-popular-item-image{
+    width: 100%;
+    border-radius:calc(var(--distance-primary)/4) ;
+    margin-bottom: cale(var(--distance-primary)/ 5);
+}
+.most-popular-item-contet{
+    display: flex;
+    justify-content: space-between;
+}
+.most-popular-item-title{
+    font-size: 14px;
+    line-height: 1.5rem;
+}
+.prix{
+    display: flex;
+justify-content: space-between;
+}

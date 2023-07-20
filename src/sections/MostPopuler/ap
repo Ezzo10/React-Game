@@ -1,0 +1,10 @@
+<div className="most-popular-items">
+        <Cards imgas = "popluar_01" title = "Fifa"     category = "Foot"       rate ="4.5"   danwnlaod ="2.3M"/>
+        <Cards imgas = "popluar_02" title = "Fortnite" category = "Stream-X"   rate ="3.2"   danwnlaod ="2.7M"/>
+        <Cards imgas = "popluar_03" title = "Batman"   category = "Legendary"  rate ="4.2"   danwnlaod ="4.5M"/>
+        <Cards imgas = "popluar_04" title = "CS-GO"    category = "Battle 5"   rate ="2.8"   danwnlaod ="5.4M"/>
+        <Cards imgas = "popluar_04" title = "CS-GO"    category = "Battle 5"   rate ="2.8"   danwnlaod ="5.4M"/>
+        <Cards imgas = "popluar_04" title = "CS-GO"    category = "Battle 5"   rate ="2.8"   danwnlaod ="5.4M"/>
+        <Cards imgas = "popluar_04" title = "CS-GO"    category = "Battle 5"   rate ="2.8"   danwnlaod ="5.4M"/>
+        <Cards imgas = "popluar_04" title = "CS-GO"    category = "Battle 5"   rate ="2.8"   danwnlaod ="5.4M"/>
+        </div>

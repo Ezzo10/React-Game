@@ -1,0 +1,29 @@
+
+.hero_main{
+    /* background:url('../../assets/imags/game1.jpg') no-repeat top right/cover; */
+    background-color: var(--color-darke);
+    color: var(--color-light );
+    border-radius:calc(var(--distance-primary) / 2);
+    padding:var(  --distance-primary );
+}
+.hero_text{
+    max-width: 500px;
+}
+.hero_title{
+    font-size:60px;
+    text-transform: uppercase;
+    margin-bottom: calc(var(--distance-primary) / 2);
+    font-weight:var(--font-wieght-bold);
+}
+.hero_title em{
+    font-size:normal;
+    color: var(--color-priamry);
+}
+.hero_subtitle{
+    font-size:20px;
+    color: #fff;
+    font-weight: var(--font-wieght-normal);
+    margin-bottom: calc(var(--distance-primary) / 2);
+}
+
+    

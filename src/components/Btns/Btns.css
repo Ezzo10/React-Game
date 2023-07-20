@@ -1,0 +1,36 @@
+.button a { 
+    font-size: 14px;
+    color: var(--color-light);
+    border-radius: var(--border-radius-primary);
+    padding: 12px 30px;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+}
+.primary-btn a {
+    background-color: var( --color-priamry);
+}
+ .primary-btn a:hover {
+    background-color: var(--color-light);
+    color: var( --color-priamry);
+}
+ .secondary-btn a {
+    border: 1px solid var( --color-priamry);
+}
+.secondary-btn a:hover {
+    border: 1px solid var(--color-light);
+    color:var( --color-priamry);
+}
+
+.thtoisieme-btn a{
+    border-radius: var(--border-radius-primary);
+    font-size: 10px;
+    padding: 13px 17px;
+    border: 1px solid var( --color-priamry);
+    letter-spacing: 0.5px;
+    transition: all .3s;
+}
+
+.thtoisieme-btn a:hover{
+    border: 1px solid var(--color-light);
+    color:var( --color-priamry);
+}

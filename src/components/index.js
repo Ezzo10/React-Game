@@ -1,0 +1,16 @@
+export {default as Header} from '../sections/Header/Header'
+export {default as Footer} from '../sections/Footer/Footer'
+export {default as Container} from './Container/Container'
+export {default as Hero} from '../sections/Hero/Hero'
+export {default as MostPopuler} from '../sections/MostPopuler/MostPopuler'
+export {default as Cards} from './Cards/Cards'
+export {default as Slider} from '../sections/Hero/Slider'
+export {default as SectionHeader} from './SectionHeader/SectionHeader'
+export {default as SectionWrapper} from './SectionWrapper/SectionWrapper'
+export {default as Game} from '../sections/Game/Game'
+export {default as CardsGame} from './CardsGame/CardsGame'
+
+
+export {default as PrimaryBtns} from './Btns/Btns'
+export {SecondarBtns as SecondarBtns} from './Btns/Btns'
+export {ThtoisiemeBtns as ThtoisiemeBtns} from './Btns/Btns'

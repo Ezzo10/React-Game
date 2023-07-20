@@ -1,0 +1,10 @@
+.game-lib-card{
+    flex:1 1 100%;
+}
+
+.game-lib-card ul{
+    display:flex;
+    padding: 25px;
+    justify-self: space-between;
+    border-bottom: 1px solid #fff;
+}

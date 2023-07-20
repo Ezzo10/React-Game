@@ -1,0 +1,6 @@
+.section-wrapper{
+    background: var(--color-body);
+    border-radius:var(--distance-primary) ;
+    padding :  var(--distance-primary);
+    margin-top: var(--distance-primary);
+}
